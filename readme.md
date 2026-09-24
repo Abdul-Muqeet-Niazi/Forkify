@@ -56,8 +56,8 @@ The application retrieves recipe information through a REST API and processes th
 
 ## Project Preview
 
-![Forkify-Dashboard](Forkify-Project\Forkify-Dashboard.png)
-![Forkify-Search](Forkify-Project\Forkify-Search.png)
+![Forkify-Dashboard](Forkify-Dashboard.png)
+![Forkify-Search](Forkify-Search.png)
 
 ## Project Goals
 
@@ -70,7 +70,7 @@ The main goal of this project was to build a practical JavaScript application wh
 Computer Science Student | Aspiring Software Engineer
 
 - GitHub: `https://github.com/Abdul-Muqeet-Niazi`
-- LinkedIn: `https://www.linkedin.com/in/abdul-muqeet-niazi/`
+- LinkedIn: `https://www.linkedin.com/in/abdul-muqeet-niazi`
 
 ## License
 
